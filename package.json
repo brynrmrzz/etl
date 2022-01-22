@@ -1,0 +1,19 @@
+{
+  "name": "etl",
+  "version": "1.0.0",
+  "description": "Some node scripts to help seed a database",
+  "main": "load.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brynrmrzz/etl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brynrmrzz/etl/issues"
+  },
+  "homepage": "https://github.com/brynrmrzz/etl#readme"
+}
